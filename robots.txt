@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-gx3yy5.indocuansite.online/sitemap.xml
